@@ -61,3 +61,4 @@ echo $produk2->cetakInfo();
 echo "<hr>";
 $produk1->setDiskon(50);
 echo $produk1->getHarga();
+?>
